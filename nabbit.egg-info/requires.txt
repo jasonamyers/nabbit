@@ -1,0 +1,8 @@
+nose>=0.10.1
+docutils>=0.5
+
+[sphinx]
+Sphinx>=1.0
+
+[xml]
+lxml>=2.0

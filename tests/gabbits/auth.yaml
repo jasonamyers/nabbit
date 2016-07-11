@@ -1,0 +1,9 @@
+tests:
+- name: get user page
+  url: /api/v1/jbuser/
+  verbose: True
+
+- name: get user page xfail uxsuccess
+#  xfail: false
+  url: /api/v1/jbuser/cookies
+  verbose: True

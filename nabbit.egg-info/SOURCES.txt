@@ -1,0 +1,10 @@
+nabbit/__init__.py
+nabbit/plugin.py
+nabbit.egg-info/PKG-INFO
+nabbit.egg-info/SOURCES.txt
+nabbit.egg-info/dependency_links.txt
+nabbit.egg-info/entry_points.txt
+nabbit.egg-info/requires.txt
+nabbit.egg-info/top_level.txt
+tests/__init__.py
+tests/test_basic.py
