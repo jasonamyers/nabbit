@@ -1,3 +1,4 @@
+setup.py
 nabbit/__init__.py
 nabbit/plugin.py
 nabbit.egg-info/PKG-INFO
